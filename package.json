@@ -5,7 +5,7 @@
   "scripts": {
     "start": "lite-server",
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "export": "next export"
   },
   "devDependencies": {
